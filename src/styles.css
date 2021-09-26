@@ -48,5 +48,11 @@ input {
   margin: 2rem;
 }
 .result {
-  float: left;
+  margin-left: 25%;
+  background-color: white;
+  color: black;
+  max-width: 200px;
+  padding: 3rem;
+  border-radius: 2rem;
+  border: 0.5rem solid #1e5631;
 }
