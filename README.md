@@ -1,2 +1,3 @@
-# cash-reg-react
-Created with CodeSandbox
+### Cash Register app built in React
+
+Visit here : https://cash-regstr.netlify.app/
